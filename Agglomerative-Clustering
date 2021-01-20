@@ -1,0 +1,2 @@
+# Agglomerative Clustering:
+The agglomerative clustering is the most popular and common hierarchical clustering also known as Agglomerative Nesting (AGNES). The methods starts by considering each data point as a single cluster. In the next step the singleton clusters are merged into a bog cluster based on the similarity between them. The procedure is repeated until all the datapoints are merged into one big cluster. The procedure can be represented as hierarchy/tree of clusters.
